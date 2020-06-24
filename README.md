@@ -72,4 +72,4 @@ Parameters:
 
 ---
 
-###### More information on how to setup your Laravel environment, plese go to [Laravel Website](https://laravel.com/docs/7.x)
+###### More information on how to setup your Laravel environment, please go to [Laravel Website](https://laravel.com/docs/7.x)
